@@ -1,0 +1,5 @@
+build
+ankportal/*.plist
+pods
+*.xcworkspace
+
